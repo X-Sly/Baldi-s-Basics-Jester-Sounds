@@ -1,6 +1,6 @@
 {
-    "name": "Jester_Sound_Baldis_Basics",
-    "version_number": "0.1.0",
+    "name": "JesterSoundBaldisBasics",
+    "version_number": "0.1.1",
     "website_url": "https://github.com/X-Sly/Baldi-s-Basics-Jester-Sounds",
     "description": "Changes jester audio to Baldi's Basics audio",
     "dependencies": [
